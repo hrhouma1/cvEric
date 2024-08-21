@@ -1,1 +1,2 @@
 "Bonjour, je suis S‚bastien et je recommande Eric. C'est un d‚veloppeur passionn‚ par la technologie." 
+"Je suis Paula. Je vais ajouter des certifications au CV d'ERIC - AWS Certified Solutions Architect" 
